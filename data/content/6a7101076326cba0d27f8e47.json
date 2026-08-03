@@ -1,0 +1,30 @@
+{
+  "title": "Harry Potter",
+  "type": "movie",
+  "description": "Hard Work",
+  "poster": "https://cdn.jsdelivr.net/gh/chapelzo281-gif/movieapp-storage@main/assets/images/posters/1785790542987-harrypotter.webp",
+  "banner": "https://cdn.jsdelivr.net/gh/chapelzo281-gif/movieapp-storage@main/assets/images/banners/1785790544527-images.jpeg",
+  "trailerUrl": "",
+  "videoUrl": "",
+  "duration": "1:48:30",
+  "genre": [
+    "Action"
+  ],
+  "cast": [
+    "Saqlain cast"
+  ],
+  "director": "Saqlain",
+  "releaseYear": 2001,
+  "rating": 7,
+  "categories": [],
+  "isPaid": false,
+  "price": 0,
+  "isFeatured": false,
+  "isActive": true,
+  "views": 0,
+  "_id": "6a7101076326cba0d27f8e47",
+  "seasons": [],
+  "createdAt": "2026-08-03T20:58:47.766Z",
+  "updatedAt": "2026-08-03T20:58:47.766Z",
+  "__v": 0
+}
